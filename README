@@ -1,0 +1,7 @@
+Run by running "idle3" in the decompressed directory of this zip archive and
+then typing "import condor" in the Python shell to import the module.
+
+For help and documentation, run the "help(condor)" command in the Python shell
+for general module help, run "help(condor.Job)" for help with initializing a
+Job object, or run "help(condor.Job.queue)" (for example) to get help with a
+specific function of the Job object.
